@@ -18,3 +18,4 @@ To write a C program that checks if an input character is an **alphabet** (eithe
 
 ## 🧾 Sample Output
 
+<img width="392" height="282" alt="image" src="https://github.com/user-attachments/assets/680841ee-9924-4428-a505-1ec9fe705fad" />
